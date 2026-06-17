@@ -136,19 +136,19 @@ Here are some of the key projects I have built, showcasing web development, steg
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117;">
       <h3>⚡ <a href="https://github.com/yathartharastogi/NeuroCharge">NeuroCharge</a> 🏆</h3>
-      <p><b>🏆 Hackathon Winner (Neuro Nex '26)</b><br/>A brain-inspired deep-tech neuromorphic battery management platform that combines Spiking Neural Networks (SNNs), Digital Twin simulation, and predictive degradation analytics to optimize EV charge cycles and detect thermal runaway anomalies in real time.</p>
+      <p><b>🏆 Hackathon Winner (Neuro Nex '26)</b><br/>A neuromorphic EV battery management platform using Spiking Neural Networks (SNNs) and Digital Twins to detect thermal runaway anomalies in real time.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117;">
-      <h3>🔒 <a href="https://github.com/yathartharastogi/steganoqr">steganoqr</a> 🏆</h3>
+      <h3>🔒 <a href="https://github.com/yathartharastogi/Steganoqr">Steganoqr</a> 🏆</h3>
       <p><b>🏆 Hackathon Winner (PydroidX)</b><br/>A security application integrating image steganography and QR codes to securely conceal, encrypt, and embed secret payloads within cover images.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117;">
-      <h3>📂 <a href="https://github.com/yathartharastogi/digital-declutter">digital-declutter</a></h3>
+      <h3>📂 <a href="https://github.com/yathartharastogi/Digital-declutter">Digital-declutter</a></h3>
       <p>An application made to help you seamlessly track and manage your online subscriptions in one organized place.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     </td>

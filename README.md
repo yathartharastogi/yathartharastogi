@@ -6,6 +6,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://komarev.com/normal-badge/?username=yathartharastogi&color=ff79c6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br/>
+
 <!-- About Me Side-by-Side -->
 <table>
   <tr>
@@ -111,9 +117,11 @@ Here are some of the key projects I have built, showcasing web development, steg
 ## 📈 GitHub Statistics & Activity
 
 <div align="center">
-  <a href="https://github.com/yathartharastogi">
-    <img src="https://github-profile-trophy.vercel.app/?username=yathartharastogi&theme=synthwave&no-background=true&margin-w=10" alt="Yathartha's GitHub Trophies" />
-  </a>
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60px" alt="Pull Shark" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="60px" alt="YOLO" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60px" alt="Quickdraw" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="60px" alt="Pair Extraordinaire" />
 </div>
 
 <br/>

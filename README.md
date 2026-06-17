@@ -62,8 +62,8 @@
 
 ### 💻 Tech Stack ⚡
 
+**⚙️ Languages & Shells**
 <p align="left">
-  <!-- Languages -->
   <a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
   <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
   <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
@@ -74,10 +74,10 @@
   <a href="#"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /></a>
   <a href="#"><img src="https://img.shields.io/badge/windows%20terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" /></a>
-  
-  <br/>
-  
-  <!-- Frontend & Cloud -->
+</p>
+
+**🌐 Web Frameworks, Execution Environments & Deployment**
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
   <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
@@ -85,10 +85,10 @@
   <a href="#"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
   <a href="#"><img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
   <a href="#"><img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+</p>
 
-  <br/>
-
-  <!-- Databases & Libraries -->
+**📊 Databases, Data Science & Design**
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
   <a href="#"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /></a>
@@ -100,10 +100,10 @@
   <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /></a>
+</p>
 
-  <br/>
-
-  <!-- Tools & Dev -->
+**🛠️ Dev Tools & Hardware**
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>

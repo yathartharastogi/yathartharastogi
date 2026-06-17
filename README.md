@@ -183,7 +183,7 @@ Here are some of the key projects I have built, showcasing web development, steg
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/yathartharastogi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathartharastogi&layout=pie&theme=synthwave&hide_border=true" alt="Yathartha's Top Languages" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathartharastogi&layout=compact&theme=synthwave&hide_border=true" alt="Yathartha's Top Languages" width="400px"/>
       </a>
     </td>
   </tr>

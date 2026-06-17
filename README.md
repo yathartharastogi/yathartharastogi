@@ -30,7 +30,9 @@
 | **🎯 Interests** | Full-Stack Development • Competitive Programming • Hackathons |
 | **📚 Learning** | Advanced Web Architecture • Next.js • TypeScript |
 | **🤝 Collaboration** | Open-Source Projects • Hackathons |
+| **📧 Email** | [yarag402@gmail.com](mailto:yarag402@gmail.com) |
 | **🔗 LinkedIn** | [in/yathartha-rastogi](https://www.linkedin.com/in/yathartha-rastogi/) |
+| **🏷️ Pronouns** | He/Him |
 | **⚡ Fun Fact** | Love building custom automation scripts and dashboard utilities! |
 
 <br/>
@@ -39,6 +41,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/yathartha-rastogi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:yarag402@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/yathartharastogi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -50,7 +55,7 @@
 ### 💻 **Languages & Tools**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,cpp,py,js,html,css,react,nextjs,nodejs,express,git,github,vscode,postman" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,cpp,py,js,html,css,react,nextjs,nodejs,express,git,github,vscode,postman,linux,windows,bash,powershell" alt="My Skills" />
 </div>
 
 <hr />
@@ -109,12 +114,12 @@ Here are some of the key projects I have built, showcasing web development, steg
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/yathartharastogi">
-        <img src="https://github-readme-stats.vercel.app/api?username=yathartharastogi&show_icons=true&theme=tokyonight&hide_border=true" alt="Yathartha's GitHub Stats" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=yathartharastogi&show_icons=true&theme=synthwave&hide_border=true" alt="Yathartha's GitHub Stats" width="400px"/>
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/yathartharastogi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathartharastogi&layout=compact&theme=tokyonight&hide_border=true" alt="Yathartha's Top Languages" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathartharastogi&layout=donut&theme=synthwave&hide_border=true" alt="Yathartha's Top Languages" width="400px"/>
       </a>
     </td>
   </tr>
@@ -122,7 +127,7 @@ Here are some of the key projects I have built, showcasing web development, steg
     <td align="center" valign="top" colspan="2">
       <br/>
       <a href="https://github.com/yathartharastogi">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yathartharastogi&theme=tokyonight&hide_border=true" alt="Yathartha's GitHub Streak" width="810px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yathartharastogi&theme=synthwave&hide_border=true" alt="Yathartha's GitHub Streak" width="810px"/>
       </a>
     </td>
   </tr>

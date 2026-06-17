@@ -6,12 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/normal-badge/?username=yathartharastogi&color=ff79c6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<br/>
-
 <!-- About Me Side-by-Side -->
 <table>
   <tr>
@@ -58,11 +52,20 @@
 
 <br/>
 
-### 💻 **Languages & Tools**
+### 💻 Tech Stack & Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,cpp,py,js,html,css,react,nextjs,nodejs,express,git,github,vscode,postman,linux,windows,bash,powershell" alt="My Skills" />
 </div>
+
+<br/>
+
+| **Domain** | **Technologies** |
+|------------|------------------|
+| **Languages** | TypeScript • JavaScript • C++ • Python • HTML5 • CSS3 • Bash • PowerShell |
+| **Frontend & Frameworks** | React • Next.js |
+| **Backend & Databases** | Node.js • Express.js |
+| **Tools & OS** | Git • GitHub • VS Code • Postman • Linux • Windows |
 
 <hr />
 

@@ -52,20 +52,65 @@
 
 <br/>
 
-### 💻 Tech Stack & Tools
+### Languages and Tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,cpp,py,js,html,css,react,nextjs,nodejs,express,git,github,vscode,postman,linux,windows,bash,powershell" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,cpp,c,py,java,js,html,css,react,nextjs,nodejs,express,postgres,supabase,firebase,mongodb,mysql,npm,vercel,cloudflare,git,github,vscode,postman,linux,windows,bash,powershell,figma,notion,arduino,raspberrypi" alt="My Skills" />
 </div>
 
 <br/>
 
-| **Domain** | **Technologies** |
-|------------|------------------|
-| **Languages** | TypeScript • JavaScript • C++ • Python • HTML5 • CSS3 • Bash • PowerShell |
-| **Frontend & Frameworks** | React • Next.js |
-| **Backend & Databases** | Node.js • Express.js |
-| **Tools & OS** | Git • GitHub • VS Code • Postman • Linux • Windows |
+### 💻 Tech Stack ⚡
+
+<p align="left">
+  <!-- Languages -->
+  <a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/windows%20terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" /></a>
+  
+  <br/>
+  
+  <!-- Frontend & Cloud -->
+  <a href="#"><img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+
+  <br/>
+
+  <!-- Databases & Libraries -->
+  <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /></a>
+
+  <br/>
+
+  <!-- Tools & Dev -->
+  <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></a>
+</p>
 
 <hr />
 

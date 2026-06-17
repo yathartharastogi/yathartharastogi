@@ -110,11 +110,19 @@ Here are some of the key projects I have built, showcasing web development, steg
 
 ## 📈 GitHub Statistics & Activity
 
+<div align="center">
+  <a href="https://github.com/yathartharastogi">
+    <img src="https://github-profile-trophy.vercel.app/?username=yathartharastogi&theme=synthwave&no-background=true&margin-w=10" alt="Yathartha's GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/yathartharastogi">
-        <img src="https://github-readme-stats.vercel.app/api?username=yathartharastogi&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="Yathartha's GitHub Stats" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=yathartharastogi&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true" alt="Yathartha's GitHub Stats" width="400px"/>
       </a>
     </td>
     <td align="center" valign="top">

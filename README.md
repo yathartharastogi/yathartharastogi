@@ -114,7 +114,7 @@ Here are some of the key projects I have built, showcasing web development, steg
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/yathartharastogi">
-        <img src="https://github-readme-stats.vercel.app/api?username=yathartharastogi&show_icons=true&theme=synthwave&hide_border=true" alt="Yathartha's GitHub Stats" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=yathartharastogi&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="Yathartha's GitHub Stats" width="400px"/>
       </a>
     </td>
     <td align="center" valign="top">
